@@ -171,7 +171,7 @@ Smart forecasting
 
 Higher weekday engagement strategies
 
-
+<br>
 🧭 Strategic Recommendations
 ✔ Strengthen presence on high-performing OTA platforms
 

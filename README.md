@@ -4,7 +4,7 @@ Business Intelligence Case Study | Power BI | Hospitality Analytics
 ss:
 
 <img width="1389" height="775" alt="image" src="https://github.com/user-attachments/assets/fc9a08ff-1cc8-45fa-b0c6-bd996cff16f3" />
-
+<br>
 
 🔍 Project Overview
 
@@ -34,7 +34,7 @@ dim_hotels, dim_rooms, dim_date – metadata
 
 meta_data_hospitality – business descriptions
 
-
+<br>
 📊 Key Metrics Developed
 
 Revenue
@@ -77,7 +77,7 @@ Booking Platform analysis (Donut + Line Chart)
 
 Trends for bookings, revenue, occupancy, and cancellations
 
-
+<br>
 🔎 Key Insights
 ★ 1. Revenue shows significant month-to-month fluctuations
 

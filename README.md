@@ -3,7 +3,8 @@ Business Intelligence Case Study | Power BI | Hospitality Analytics
 
 ss:
 
-<img width="1395" height="784" alt="image" src="https://github.com/user-attachments/assets/59cb2068-48f1-466f-a447-002d78371538" />
+<img width="1389" height="775" alt="image" src="https://github.com/user-attachments/assets/fc9a08ff-1cc8-45fa-b0c6-bd996cff16f3" />
+
 
 🔍 Project Overview
 

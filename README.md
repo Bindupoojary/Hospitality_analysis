@@ -1,6 +1,8 @@
 🌟 AtliQ Grands – Hotel Performance & Revenue Insights Dashboard
 Business Intelligence Case Study | Power BI | Hospitality Analytics
+
 ss:
+
 <img width="1395" height="784" alt="image" src="https://github.com/user-attachments/assets/59cb2068-48f1-466f-a447-002d78371538" />
 
 🔍 Project Overview
@@ -8,6 +10,7 @@ ss:
 AtliQ Grands is a luxury hotel chain operating across major Indian cities. Despite over 20 years in the hospitality industry, the group has been losing market share due to increasing competition, outdated decision-making processes, and limited utilization of their historical data.
 
 To address this challenge, the Revenue Management Team commissioned a complete analytics dashboard to convert their raw data into actionable insights. The goal was to build a comprehensive Business Intelligence solution that enables data-driven decisions across departments.
+
 
 This project focuses on:
 
@@ -29,6 +32,7 @@ fact_aggregated_bookings – capacity, revenue, occupancy
 dim_hotels, dim_rooms, dim_date – metadata
 
 meta_data_hospitality – business descriptions
+
 
 📊 Key Metrics Developed
 
@@ -71,6 +75,7 @@ Revenue Contributors visual (Bar + Treemap)
 Booking Platform analysis (Donut + Line Chart)
 
 Trends for bookings, revenue, occupancy, and cancellations
+
 
 🔎 Key Insights
 ★ 1. Revenue shows significant month-to-month fluctuations
@@ -164,6 +169,7 @@ Dynamic price adjustments
 Smart forecasting
 
 Higher weekday engagement strategies
+
 
 🧭 Strategic Recommendations
 ✔ Strengthen presence on high-performing OTA platforms

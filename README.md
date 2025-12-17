@@ -1,7 +1,7 @@
 🌟 AtliQ Grands – Hotel Performance & Revenue Insights Dashboard
 Business Intelligence Case Study | Power BI | Hospitality Analytics
 
-<a href=""https://app.powerbi.com/view?r=eyJrIjoiNzA3ZDRhYmMtNzdiMy00ZjU4LWFhZmQtMGRjYTJjNWViOGUzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9">Live Dashboard</a>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiNzA3ZDRhYmMtNzdiMy00ZjU4LWFhZmQtMGRjYTJjNWViOGUzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9">Live Dashboard</a>
 ss:
 
 <img width="1389" height="775" alt="image" src="https://github.com/user-attachments/assets/fc9a08ff-1cc8-45fa-b0c6-bd996cff16f3" />
